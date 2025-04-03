@@ -16,7 +16,9 @@ Oxir to;;rtinchi va bu general odamlar uchun. Bu yozili kerakday bo'ldi. Masalan
 -->
 
 # Fanlar ro'yxati (2025 yil tayyorlangan)
-
+<details>
+  <summary>Fanlarni ko'rish</summary>
+    
 | Course Name                              | Course Syllabus                                                                 | Relevant the Best (Mature) Book                                                                 | Online Course                                                                 |
 |------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | Introduction to Computing System          | Basics of computing, hardware, software, and operating systems                 | "Computer Organization and Design" by David A. Patterson and John L. Hennessy                  | [TODO](https://www.coursera.org)        |
@@ -51,6 +53,7 @@ Oxir to;;rtinchi va bu general odamlar uchun. Bu yozili kerakday bo'ldi. Masalan
 | AI in Digital Healthcare                 | AI applications in healthcare and medical data analysis                        | "Artificial Intelligence in Healthcare" by Tom Lawry                                           | [TODO](https://www.coursera.org)         |
 | Internship x4                            | Practical experience in a professional setting                                 | N/A                                                                                            | N/A                                                                           |
 
+</details>
 
 
 
